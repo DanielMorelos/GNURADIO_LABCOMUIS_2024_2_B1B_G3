@@ -1,2 +1,2 @@
-# GNURADIO_LABCOMUIS_2024_4_B1B_G3
-Este repositorio contiene los trabajos de laboratorio del curso **Comunicaciones I** (B1B) del grupo **3**, conformado por los estudiantes **Daniel Morelos** y **Hailen Chacon**, realizados durante el segundo semestre de 2024 en la **Universidad Industrial de Santander**. Este curso corresponde al séptimo semestre, y el repositorio se utilizará para documentar y presentar los resultados de nuestras actividades prácticas.
+# Practica 2
+En esta practica se analizaron diferentes aspectos relacionados con los canales de transmision, comparando la amplitud de la señal medida en el oscilocopio con la generada en el PC con cables de diferentes tamaños y con diferente amortiguacion. Y de esto aprendimos entre otras cosas que los canales de transmision presentan perdidas observables que dependen de las caracteristicas del canal.
