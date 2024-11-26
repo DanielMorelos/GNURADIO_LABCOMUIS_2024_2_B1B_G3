@@ -1,2 +1,3 @@
-# GNURADIO_LABCOMUIS_2024_4_B1B_G3
-Este repositorio contiene los trabajos de laboratorio del curso **Comunicaciones I** (B1B) del grupo **3**, conformado por los estudiantes **Daniel Morelos** y **Hailen Chacon**, realizados durante el segundo semestre de 2024 en la **Universidad Industrial de Santander**. Este curso corresponde al séptimo semestre, y el repositorio se utilizará para documentar y presentar los resultados de nuestras actividades prácticas.
+# Practica 4
+En la primera parte de la práctica 4, se aprendió a determinar las características de la señal de banda base en FM, que incluye la señal mono, la señal piloto, la señal estéreo, RBDS y las subcarriers. También se adquirieron conocimientos sobre cómo medir el ancho de banda de las emisoras utilizando el método de los -20 dB y cómo calcular el Noise Floor con la ayuda de un analizador de espectros.
+![image](https://github.com/user-attachments/assets/0ee5f509-755f-4861-b4b6-c84f067069cc)
